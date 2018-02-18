@@ -1,6 +1,6 @@
 # Schooltools
 
-## Chemestry
+## Chemistry
 - Molarmass calc
 - Equation balancer
 - Solve for pH, pOH
