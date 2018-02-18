@@ -1,14 +1,14 @@
 # Schooltools
 
-##Chemestry
+## Chemestry
 - Molarmass calc
 - Equation balancer
 - Solve for pH, pOH
 
-##Math
+## Math
 - Derivatives
 - Integrals
 - Graphing equations
 
-##Physics
+## Physics
 - AP Physics 1 equations
