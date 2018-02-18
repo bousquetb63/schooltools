@@ -3,7 +3,7 @@
 
 <script>
 export default {
-  name: 'Physics'
+  name: 'Soon'
 }
 </script>
 

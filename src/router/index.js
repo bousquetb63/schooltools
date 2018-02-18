@@ -4,6 +4,8 @@ import Home from '@/components/Home'
 import Calculus from '@/components/Calculus'
 import Physics from '@/components/Physics'
 import Chemistry from '@/components/Chemistry'
+import Soon from '@/components/Soon'
+
 
 Vue.use(Router)
 
@@ -29,6 +31,11 @@ export default new Router({
       path: '/chemistry',
       name: 'Chemistry',
       component: Chemistry
+    },
+    {
+      path: '/soon',
+      name: 'Soon',
+      component: Soon
     }
   ]
 })

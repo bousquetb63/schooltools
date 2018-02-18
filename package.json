@@ -10,6 +10,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "mathjs": "^3.20.2",
+    "mathjs-simple-integral": "^0.1.1",
+    "molarmass.js": "0.0.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuetify": "^1.0.0"
